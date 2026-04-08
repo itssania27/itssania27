@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** JavaScript, Python, MySQL, HTML
-- **Productivity: node.js,python,express
+- Productivity: node.js,python,express
 
 ## 🌟 Featured Projects
 - [QR Code Generator](https://github.com/itssania27/qr-code-generator): Effortlessly create custom QR codes for any use-case!
