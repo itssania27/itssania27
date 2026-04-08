@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** JavaScript, Python, MySQL, HTML
-- **Productivity:** MS Excel
+- **Productivity: node.js,python,express
 
 ## 🌟 Featured Projects
 - [QR Code Generator](https://github.com/itssania27/qr-code-generator): Effortlessly create custom QR codes for any use-case!
@@ -13,14 +13,5 @@
 
 ## 📰 News & Writing
 - Check out my [News Report Website](https://itssania27.wordpress.com) for my latest articles and updates!
-
-## ♟️ More About Me
-- I overthink but that just means I care about details!
-- Chess player and strategic thinker.
-- I love listening to sad songs—music is my escape.
-
----
-
-> “Don’t let my silence fool you—there’s a lot happening behind the screen.”
 
 <!-- Connect with me or check out my projects above! -->
